@@ -15,15 +15,21 @@ To run:
 9. `pserve development.ini`
 
 API endpoints:
+
 GET /brands
+
 POST /brands
+
 Input:
 {
 	"name": "Ferrari",
 }
+
 PUT /brands/:id
+
 Input:
 {
 	"name": "Brand name"
 }
+
 DELETE /brands/:id
