@@ -25,6 +25,8 @@ Input:
 	"name": "Ferrari",
 }
 
+GET /brands/:id
+
 PUT /brands/:id
 
 Input:
